@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 30f4a49f15c926544b53a393dc7bd42f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tradePanel: {instanceID: 0}
+  - memoryListParent: {instanceID: 0}
+  - memoryButtonPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
